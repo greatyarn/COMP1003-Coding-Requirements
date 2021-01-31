@@ -1,0 +1,13 @@
+C:\Users\user\Documents\OneDrive - University of Plymouth\COMP1003 Algorithms, Data Structures and Mathematics (20SPSBM)\GitHub Repositories\COMP1003\bin\Debug\netcoreapp3.1\COMP1003.exe
+C:\Users\user\Documents\OneDrive - University of Plymouth\COMP1003 Algorithms, Data Structures and Mathematics (20SPSBM)\GitHub Repositories\COMP1003\bin\Debug\netcoreapp3.1\COMP1003.deps.json
+C:\Users\user\Documents\OneDrive - University of Plymouth\COMP1003 Algorithms, Data Structures and Mathematics (20SPSBM)\GitHub Repositories\COMP1003\bin\Debug\netcoreapp3.1\COMP1003.runtimeconfig.json
+C:\Users\user\Documents\OneDrive - University of Plymouth\COMP1003 Algorithms, Data Structures and Mathematics (20SPSBM)\GitHub Repositories\COMP1003\bin\Debug\netcoreapp3.1\COMP1003.runtimeconfig.dev.json
+C:\Users\user\Documents\OneDrive - University of Plymouth\COMP1003 Algorithms, Data Structures and Mathematics (20SPSBM)\GitHub Repositories\COMP1003\bin\Debug\netcoreapp3.1\COMP1003.dll
+C:\Users\user\Documents\OneDrive - University of Plymouth\COMP1003 Algorithms, Data Structures and Mathematics (20SPSBM)\GitHub Repositories\COMP1003\bin\Debug\netcoreapp3.1\COMP1003.pdb
+C:\Users\user\Documents\OneDrive - University of Plymouth\COMP1003 Algorithms, Data Structures and Mathematics (20SPSBM)\GitHub Repositories\COMP1003\obj\Debug\netcoreapp3.1\COMP1003.csprojAssemblyReference.cache
+C:\Users\user\Documents\OneDrive - University of Plymouth\COMP1003 Algorithms, Data Structures and Mathematics (20SPSBM)\GitHub Repositories\COMP1003\obj\Debug\netcoreapp3.1\COMP1003.AssemblyInfoInputs.cache
+C:\Users\user\Documents\OneDrive - University of Plymouth\COMP1003 Algorithms, Data Structures and Mathematics (20SPSBM)\GitHub Repositories\COMP1003\obj\Debug\netcoreapp3.1\COMP1003.AssemblyInfo.cs
+C:\Users\user\Documents\OneDrive - University of Plymouth\COMP1003 Algorithms, Data Structures and Mathematics (20SPSBM)\GitHub Repositories\COMP1003\obj\Debug\netcoreapp3.1\COMP1003.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\OneDrive - University of Plymouth\COMP1003 Algorithms, Data Structures and Mathematics (20SPSBM)\GitHub Repositories\COMP1003\obj\Debug\netcoreapp3.1\COMP1003.dll
+C:\Users\user\Documents\OneDrive - University of Plymouth\COMP1003 Algorithms, Data Structures and Mathematics (20SPSBM)\GitHub Repositories\COMP1003\obj\Debug\netcoreapp3.1\COMP1003.pdb
+C:\Users\user\Documents\OneDrive - University of Plymouth\COMP1003 Algorithms, Data Structures and Mathematics (20SPSBM)\GitHub Repositories\COMP1003\obj\Debug\netcoreapp3.1\COMP1003.genruntimeconfig.cache
