@@ -167,6 +167,16 @@ namespace COMP1003
             bool c = false;
             bool d;
 
+            if (a && b || c)
+            {
+                d = true;
+                Console.WriteLine("d is " + d);
+            }
+            else
+            {
+                d = false;
+                Console.WriteLine("d is " + d);
+            }
         }
     }
 }
